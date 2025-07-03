@@ -16,7 +16,7 @@ button{
 .passo{
     display: none;
 }
- passo.ativo {
+.passo.ativo {
     display: block;
  }
 
